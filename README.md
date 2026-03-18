@@ -1,6 +1,6 @@
 <h1>Welcome to Omari's Tech tour! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>☁️ Cloud Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -10,7 +10,7 @@
 - <b>Certifications</b>
   - [AWS Certified Cloud Practictioner](https://www.youtube.com/shorts/kiMpfSFsOfg)
 
-<h2>📺 History & Basics of Computing </h2>
+<h2>💻 History & Basics of Computing </h2>
 
 - ["Computer Science" playlist (by CrashCourse)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
