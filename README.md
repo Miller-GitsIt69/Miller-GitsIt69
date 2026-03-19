@@ -1,4 +1,4 @@
-<h1>Welcome to Omari's Tech tour! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Welcome to Omari's Tech tour! <br/><a href="www.linkedin.com/in/omari-miller">Cloud Specialist</a></h1>
 
 <h2>☁️ Cloud Projects:</h2>
 
