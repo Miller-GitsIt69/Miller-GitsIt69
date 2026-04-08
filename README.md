@@ -5,7 +5,7 @@
 - <b>Amazon Web Services (EC2, )</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Google Cloud Platform (VM, )</b>
-  - [Create a Virtual Machine instance](https://github.com/Miller-GitsIt69/Initialize-me/blob/main/README.md) <b><i>(web server)</b></i>
+- [Generate a Virtual Machine instance](https://github.com/Miller-GitsIt69/Initialize-me/blob/main/README.md) <b><i>(Create and evaluate a web server)</b></i>
 
 <h2>Certifications</h2>
 
